@@ -88,13 +88,13 @@ endmodule
 ![output](https://github.com/gunasekhar159/Exp-7-Synchornous-counters-/blob/main/n1.png?raw=true)
 
 ### DOWN COUNTER:
-![OUTPUT](https://github.com/gunasekhar159/Exp-7-Synchornous-counters-/blob/main/n2.png?raw=true)
+![OUTPUT](https://github.com/gunasekhar159/Exp-7-Synchornous-counters-/blob/main/n3.jpg?raw=true)
 
 
 ### TIMING DIGRAMS FOR COUNTER  
 
 ### UP COUNTER:
-![output](https://github.com/gunasekhar159/Exp-7-Synchornous-counters-/blob/main/n3.jpg?raw=true)
+![output](?raw=true)
 
 ### DOWN COUNTER:
 ![output](https://github.com/gunasekhar159/Exp-7-Synchornous-counters-/blob/main/n4.PNG?raw=true)
@@ -102,10 +102,10 @@ endmodule
 ### TRUTH TABLE 
 
 ### UP COUNTER:
-![output](?raw=true)
+![output](https://github.com/gunasekhar159/Exp-7-Synchornous-counters-/blob/main/n2.png?raw=true)
 
 ### DOWN COUNTER:
-![output](?raw=true)
+![output](https://github.com/gunasekhar159/Exp-7-Synchornous-counters-/blob/main/n4.PNG?raw=true)
 
 
 
