@@ -17,24 +17,11 @@ The main problem facing us is to determine how to connect these flip-flops toget
 Examine the following binary count sequence, paying attention to patterns preceding the “toggling” of a bit between 0 and 1:
 Binary count sequence, paying attention to patterns preceding the “toggling” of a bit between 0 and 1.
 
-Note that each bit in this four-bit sequence toggles when the bit before it (the bit having a lesser significance, or place-weight), toggles in a particular direction: from 1 to 0.
-
-
-
- 
- 
-
+Note that each bit in this four-bit sequence toggles when the bit before it (the bit having a lesser significance, or place-weight), toggles in a particular direction: from 1 to 0. 
 Starting with four J-K flip-flops connected in such a way to always be in the “toggle” mode, we need to determine how to connect the clock inputs in such a way so that each succeeding bit toggles when the bit before it transitions from 1 to 0.
-
 The Q outputs of each flip-flop will serve as the respective binary bits of the final, four-bit count:
-
- 
- 
-
 Four-bit “Up” Counter
 ![image](https://user-images.githubusercontent.com/36288975/169644758-b2f4339d-9532-40c5-af40-8f4f8c942e2c.png)
-
-
 
 ## DOWN COUNTER 
 
@@ -46,7 +33,16 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 
 4-bit Count Down Counter
 ### Procedure
-/* write all the steps invloved */
+
+## step 1:
+
+## step 2:
+
+## step 3:
+
+## step 4:
+
+## step 5:
 
 
 ```
@@ -89,37 +85,27 @@ endmodule
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
 
 ### UP COUNTER:
-![output](?raw=true)
+![output](https://github.com/gunasekhar159/Exp-7-Synchornous-counters-/blob/main/n1.png?raw=true)
 
 ### DOWN COUNTER:
-![OUTPUT](?raw=true)
-
-
-
-
-
-
-
+![OUTPUT](https://github.com/gunasekhar159/Exp-7-Synchornous-counters-/blob/main/n2.png?raw=true)
 
 
 ### TIMING DIGRAMS FOR COUNTER  
+
+### UP COUNTER:
+![output](https://github.com/gunasekhar159/Exp-7-Synchornous-counters-/blob/main/n3.jpg?raw=true)
+
+### DOWN COUNTER:
+![output](https://github.com/gunasekhar159/Exp-7-Synchornous-counters-/blob/main/n4.PNG?raw=true)
+
+### TRUTH TABLE 
 
 ### UP COUNTER:
 ![output](?raw=true)
 
 ### DOWN COUNTER:
 ![output](?raw=true)
-
-
-
-
-
-
-
-### TRUTH TABLE 
-
-
-
 
 
 
