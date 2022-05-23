@@ -33,17 +33,22 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 
 4-bit Count Down Counter
 ### Procedure
-
 ## step 1:
-
+Create a new project in QuartusII software.
 ## step 2:
-
+Name the project as uc for upcounter and dc for down counter.
 ## step 3:
-
+Create a new verilog hdl file in the project file.
 ## step 4:
-
+Name the module as dc and uc for down counter and up counter.
 ## step 5:
-
+Within the module declare input and output variables.
+## step 6:
+Create a loop using if-else with condition parameter as reset value.
+## step 7:
+End the loop.
+## step 8:
+End the module
 
 ```
 ### PROGRAM 
@@ -78,10 +83,6 @@ assign counter=counter_down;
 endmodule
 ```
 
-
-
-
-
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
 
 ### UP COUNTER:
@@ -102,11 +103,13 @@ endmodule
 ### TRUTH TABLE 
 
 ### UP COUNTER:
-
+![output](?raw=true)
 
 ### DOWN COUNTER:
+![output](?raw=true)
 
 
 
 
-### RESULTS 
+### RESULTS :
+The program is successfully executed to create 4bit-upcounter and 4bit-downcounter, the RTL simulisation is generated and wafe form is also generated.
